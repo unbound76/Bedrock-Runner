@@ -111,7 +111,7 @@ async function loadLargeSeedPools(){
     const id='pool-'+pool.path.split('/').pop().replace('.json','')+'-'+seed;
     if(!knownIds.has(id)){
      knownIds.add(id);
-     seeds.push({id,seed:String(seed),version:'1.16',category:pool.category,difficulty:'Medium',features:[],verifiedFeatures:[],source:'Community',status:'Unverified',notes:'Imported from the public Bedrock 1.16 FSG seed list: '+pool.name+'. The list classification is preserved; this app has not individually re-tested this seed in-game.',proof:'https://github.com/maehy/Bedrock-1.16-fsg'});
+     seeds.push({id,seed:String(seed),version:'1.16',category:pool.category,difficulty:'Medium',features:[...(pool.features||[])],verifiedFeatures:[],source:'Community',status:'Unverified',notes:'Imported from the public Bedrock 1.16 FSG seed list: '+pool.name+'. Its public list classification is used for filtering, but this app has not individually re-tested this seed in-game.',proof:'https://github.com/maehy/Bedrock-1.16-fsg'});
      added++;
     }
    });
