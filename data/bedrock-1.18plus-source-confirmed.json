@@ -2790,10 +2790,144 @@
       "notes": "MCSeeder Bedrock-specific scan. Nether 0,0: Bastion 57 blocks; Fortress 114 blocks. Estimated Overworld spawn 0,0. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
       "proof": "https://mcseeder.com/versions/bedrock-1.21.90/",
       "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-30-4517601724022442",
+      "seed": "4517601724022442",
+      "version": "26.30-26.45",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.30–26.45 scan. Village 311 blocks; ruined portal 362 blocks; stronghold approx. 841 blocks. Spawn/stronghold approximations are as reported; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-26.30/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-30-709283897811163",
+      "seed": "709283897811163",
+      "version": "26.30-26.45",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.30–26.45 scan. Village 47 blocks; ruined portal 362 blocks; stronghold approx. 975 blocks. Spawn/stronghold approximations are as reported; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-26.30/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-30-509543323459177",
+      "seed": "509543323459177",
+      "version": "26.30-26.45",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.30–26.45 scan. Village 88 blocks; ruined portal 104 blocks; shipwreck 286 blocks; stronghold approx. 913 blocks. Spawn/stronghold approximations are as reported; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-26.30/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-30-329106419120846",
+      "seed": "329106419120846",
+      "version": "26.30-26.45",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.30–26.45 scan. Village 82 blocks; shipwreck 171 blocks; ruined portal 211 blocks; stronghold approx. 865 blocks. Spawn/stronghold approximations are as reported; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-26.30/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-30-49523711500017071",
+      "seed": "49523711500017071",
+      "version": "26.30-26.45",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.30–26.45 scan. Village 14 blocks; ruined portal 59 blocks; stronghold approx. 1.4k blocks. Spawn/stronghold approximations are as reported; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-26.30/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-30-24088199827985",
+      "seed": "24088199827985",
+      "version": "26.30-26.45",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Bastion",
+        "Fortress"
+      ],
+      "verifiedFeatures": [
+        "Bastion",
+        "Fortress"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.30–26.45 scan. Nether 0,0: Bastion 102 blocks; Fortress 88 blocks. Estimated Overworld spawn -32,48. Spawn/stronghold approximations are as reported; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-26.30/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
     }
   ],
   "seedCount": 26,
   "note": "Seed records retain the exact version and source scope. A source-confirmed status means the cited scanner reports those listed structures; it is not a manual in-game loot check.",
-  "sourceCount": 124,
+  "sourceCount": 130,
   "candidateCount": 4
 }
