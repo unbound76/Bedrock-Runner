@@ -1,7 +1,7 @@
 {
   "source": "Minecraft Tools — Speedrun Seeds, Bedrock 26.3",
   "sourceUrl": "https://minecrafttools.wiki/seed-finder/best/speedrun",
-  "checkedOn": "2026-11-02",
+  "checkedOn": "2026-11-18",
   "edition": "Bedrock",
   "version": "26.3",
   "method": "Generated with Bedrock worldgen; source reports village and ruined portal within 300 blocks of estimated spawn, fortress within 300 Nether blocks of the spawn portal position, and stronghold within 1,200 blocks. Spawn is estimated; fortress distance uses spawn X/Z divided by 8.",
@@ -570,8 +570,648 @@
       "notes": "Bedrock 26.3 ChunkScan scanned candidate. Forest spawn. Ruined portal at spawn; village 118 blocks away; trial chamber 70 blocks away. Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
       "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
       "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
+    },
+    {
+      "id": "bedrock-26-3--430880741",
+      "seed": "-430880741",
+      "version": "26.3",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 ChunkScan scan. Taiga spawn at 0,0; ruined portal 158 blocks; village 197 blocks; buried treasure 319 blocks. ChunkScan reports both village and ruined portal within 200 blocks of spawn.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-3--2113086822",
+      "seed": "-2113086822",
+      "version": "26.3",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 ChunkScan scan. Snowy Plains spawn around 48,128; ruined portal 168 blocks; village 75 blocks; trial chamber 135 blocks. ChunkScan reports both village and ruined portal within 200 blocks of spawn.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-3-42036190",
+      "seed": "42036190",
+      "version": "26.3",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 ChunkScan scan. Plains spawn around -256,64; ruined portal 188 blocks; village 60 blocks; trial chamber 121 blocks. ChunkScan reports both village and ruined portal within 200 blocks of spawn.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-3--970078739",
+      "seed": "-970078739",
+      "version": "26.3",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 ChunkScan scan. Snowy Plains spawn around 112,0; ruined portal 197 blocks; village 68 blocks; trial chamber at spawn. ChunkScan reports both village and ruined portal within 200 blocks of spawn.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-3-1882209081",
+      "seed": "1882209081",
+      "version": "26.3",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 ChunkScan scan. Plains spawn around 16,144; ruined portal at spawn; village 181 blocks; trial chamber 61 blocks. ChunkScan reports both village and ruined portal within 200 blocks of spawn.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-3-524974560",
+      "seed": "524974560",
+      "version": "26.3",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 ChunkScan scan. Plains spawn around -384,176; ruined portal at spawn; village 118 blocks; trial chamber 95 blocks. ChunkScan reports both village and ruined portal within 200 blocks of spawn.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-3--696844984",
+      "seed": "-696844984",
+      "version": "26.3",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 ChunkScan scan. Snowy Taiga spawn around 48,32; ruined portal at spawn; village 91 blocks; igloo 138 blocks. ChunkScan reports both village and ruined portal within 200 blocks of spawn.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-3969797649027455",
+      "seed": "3969797649027455",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock seed list (engine checked 3 Oct 2026). Village 47 blocks and ruined portal 47 blocks from estimated spawn; ancient city 149 blocks; approximate stronghold 916 blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-34478215336451",
+      "seed": "34478215336451",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock seed list (engine checked 3 Oct 2026). Village 91 blocks and ruined portal 57 blocks from estimated spawn; stronghold approximately 998 blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-584538501884875",
+      "seed": "584538501884875",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock seed list (engine checked 3 Oct 2026). Village 69 blocks and ruined portal 47 blocks from estimated spawn; stronghold approximately 1.1k blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-22410985390936",
+      "seed": "22410985390936",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock seed list (engine checked 3 Oct 2026). Village 41 blocks and ruined portal 88 blocks from estimated spawn; stronghold approximately 1.1k blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-132551125780576",
+      "seed": "132551125780576",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock seed list (engine checked 3 Oct 2026). Village 107 blocks and ruined portal 72 blocks from estimated spawn; stronghold approximately 865 blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-352997457058882",
+      "seed": "352997457058882",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock seed list (engine checked 3 Oct 2026). Village 97 blocks and ruined portal 25 blocks from estimated spawn; shipwreck 299 blocks; stronghold approximately 974 blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-417580112219727",
+      "seed": "417580112219727",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock seed list (engine checked 3 Oct 2026). Village 82 blocks and ruined portal 61 blocks from estimated spawn; stronghold approximately 845 blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-1558102962084255",
+      "seed": "1558102962084255",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock seed list (engine checked 3 Oct 2026). Village 107 blocks and ruined portal 34 blocks from estimated spawn; stronghold approximately 745 blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-966337791244597",
+      "seed": "966337791244597",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock seed list (engine checked 3 Oct 2026). Village 111 blocks and ruined portal 104 blocks from estimated spawn; stronghold approximately 997 blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-168026475458704",
+      "seed": "168026475458704",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock seed list (engine checked 3 Oct 2026). Village 126 blocks and ruined portal 25 blocks from estimated spawn; stronghold approximately 1.2k blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-1220802856087292",
+      "seed": "1220802856087292",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock shipwreck + ruined portal list (engine checked 3 Oct 2026). Shipwreck 91 blocks and ruined portal 82 blocks from estimated spawn; village 283 blocks; stronghold approximately 882 blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-shipwreck-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-977013834621458",
+      "seed": "977013834621458",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock shipwreck + ruined portal list (engine checked 3 Oct 2026). Shipwreck 57 blocks and ruined portal 91 blocks from estimated spawn; village 354 blocks; stronghold approximately 742 blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-shipwreck-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-995761043997515",
+      "seed": "995761043997515",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock shipwreck + ruined portal list (engine checked 3 Oct 2026). Shipwreck 136 blocks and ruined portal 61 blocks from estimated spawn; village 366 blocks; stronghold approximately 837 blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-shipwreck-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-4533973162155335",
+      "seed": "4533973162155335",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock shipwreck + ruined portal list (engine checked 3 Oct 2026). Shipwreck 149 blocks and ruined portal 79 blocks from estimated spawn; village 376 blocks; stronghold approximately 898 blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-shipwreck-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-1082896946764323",
+      "seed": "1082896946764323",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Shipwreck",
+        "Ruined portal",
+        "Village",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Shipwreck",
+        "Ruined portal",
+        "Village",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock shipwreck + ruined portal list (engine checked 3 Oct 2026). Shipwreck and ruined portal both 88 blocks from estimated spawn; village 142 blocks; stronghold approximately 1.3k blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-shipwreck-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-414063881200145",
+      "seed": "414063881200145",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock shipwreck + ruined portal list (engine checked 3 Oct 2026). Shipwreck 69 blocks and ruined portal 126 blocks from estimated spawn; stronghold approximately 961 blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-shipwreck-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-5241123102710509",
+      "seed": "5241123102710509",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock shipwreck + ruined portal list (engine checked 3 Oct 2026). Shipwreck 120 blocks and ruined portal 114 blocks from estimated spawn; stronghold approximately 856 blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-shipwreck-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-2448406442251098",
+      "seed": "2448406442251098",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock shipwreck + ruined portal list (engine checked 3 Oct 2026). Shipwreck 57 blocks and ruined portal 82 blocks from estimated spawn; stronghold approximately 1.7k blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-shipwreck-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-2131934266655761",
+      "seed": "2131934266655761",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock shipwreck + ruined portal list (engine checked 3 Oct 2026). Shipwreck 76 blocks and ruined portal 162 blocks from estimated spawn; stronghold approximately 1.1k blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-shipwreck-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-26-50-26-60-1051095788243632",
+      "seed": "1051095788243632",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock shipwreck + ruined portal list (engine checked 3 Oct 2026). Shipwreck 147 blocks and ruined portal 47 blocks from estimated spawn; stronghold approximately 1k blocks. Spawn and stronghold positions are marked approximate by the source.",
+      "proof": "https://mcseeder.com/seeds/bedrock-shipwreck-and-ruined-portal/",
+      "verificationMethod": "Community seed list / seed-map engine; Bedrock edition and listed features reported by source. Not manually tested in-game."
+    },
+    {
+      "id": "bedrock-1-21-120-1222090162574629",
+      "seed": "1222090162574629",
+      "version": "1.21.120",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [],
+      "verifiedFeatures": [],
+      "source": "Community",
+      "status": "Unverified",
+      "notes": "Unverified community candidate. Village, stronghold beneath/near village, ruined portal in village, and reported Nether fortress + bastion within 100 blocks of portal arrival.",
+      "proof": "https://www.reddit.com/r/minecraftseeds/comments/1xogiqf/potential_speedrun_seed_1222090162574629/",
+      "verificationMethod": "Community-posted candidate; reported details have not been independently checked."
+    },
+    {
+      "id": "bedrock-26-45-8856596594621395280",
+      "seed": "8856596594621395280",
+      "version": "26.45",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [],
+      "verifiedFeatures": [],
+      "source": "Community",
+      "status": "Unverified",
+      "notes": "Unverified community candidate. Village and stronghold portal room near each other; ruined portal reported to lead directly to a Nether fortress. User-posted coordinates; not independently checked.",
+      "proof": "https://www.reddit.com/r/minecraftseeds/comments/1wb83mh/possibly_the_best_randomly_generated_seed_ive/",
+      "verificationMethod": "Community-posted candidate; reported details have not been independently checked."
+    },
+    {
+      "id": "bedrock-26-1--3713926928646056668",
+      "seed": "-3713926928646056668",
+      "version": "26.1",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [],
+      "verifiedFeatures": [],
+      "source": "Community",
+      "status": "Unverified",
+      "notes": "Unverified community candidate. Community report: multiple villages, ruined portals, buried treasure, stronghold, several ancient cities and trial chambers; one portal reportedly exits near a fortress. Details later updated in comments; not independently checked.",
+      "proof": "https://www.reddit.com/r/MinecraftBedrockSeeds/comments/1raka60/found_a_very_op_seed_do_you_guys_think_it_is_top/",
+      "verificationMethod": "Community-posted candidate; reported details have not been independently checked."
+    },
+    {
+      "id": "bedrock-1-21-5---5275702371991204502",
+      "seed": "-5275702371991204502",
+      "version": "1.21.5?",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [],
+      "verifiedFeatures": [],
+      "source": "Community",
+      "status": "Unverified",
+      "notes": "Unverified community candidate. Community report says Bedrock: two villages, two lava pools, ruined portals and nearby bastions. Exact version is uncertain; candidate only.",
+      "proof": "https://www.reddit.com/r/minecraftseeds/comments/1v7y5rz/seed_i_found_randomly/",
+      "verificationMethod": "Community-posted candidate; reported details have not been independently checked."
     }
   ],
   "seedCount": 26,
-  "note": "Seed records retain the exact version and source scope. A source-confirmed status means the cited scanner reports those listed structures; it is not a manual in-game loot check."
+  "note": "Seed records retain the exact version and source scope. A source-confirmed status means the cited scanner reports those listed structures; it is not a manual in-game loot check.",
+  "sourceCount": 53,
+  "candidateCount": 4
 }
