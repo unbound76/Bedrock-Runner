@@ -2924,6 +2924,187 @@
       "notes": "MCSeeder Bedrock 26.30–26.45 scan. Nether 0,0: Bastion 102 blocks; Fortress 88 blocks. Estimated Overworld spawn -32,48. Spawn/stronghold approximations are as reported; not manually tested in-game.",
       "proof": "https://mcseeder.com/versions/bedrock-26.30/",
       "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-2663-getmcpe-3548649274675467639",
+      "seed": "3548649274675467639",
+      "version": "26.63",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [],
+      "source": "Community",
+      "status": "Unverified",
+      "notes": "Community-listed Bedrock 26.63 candidate. Plains village near spawn, ruined portal nearby, and a stronghold reported beneath the village area. Features are copied from the page description, not independently tested in-game.",
+      "proof": "https://getmcpe.com/speedrun-seeds/",
+      "verificationMethod": "Public Bedrock seed article; not independently tested in-game."
+    },
+    {
+      "id": "bedrock-2663-getmcpe-neg2877812221498573089",
+      "seed": "-2877812221498573089",
+      "version": "26.63",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Stronghold",
+        "Ocean monument",
+        "Buried treasure"
+      ],
+      "verifiedFeatures": [],
+      "source": "Community",
+      "status": "Unverified",
+      "notes": "Community-listed Bedrock 26.63 candidate. Dappled forest and cherry grove spawn; source reports a nearby village, stronghold, ocean monument, and buried treasure. Features are copied from the page description, not independently tested in-game.",
+      "proof": "https://getmcpe.com/speedrun-seeds/",
+      "verificationMethod": "Public Bedrock seed article; not independently tested in-game."
+    },
+    {
+      "id": "bedrock-2663-getmcpe-5181193457944211792",
+      "seed": "5181193457944211792",
+      "version": "26.63",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold",
+        "Trial chamber"
+      ],
+      "verifiedFeatures": [],
+      "source": "Community",
+      "status": "Unverified",
+      "notes": "Community-listed Bedrock 26.63 candidate. Plains village near spawn, ruined portal nearby, and a stronghold and trial chamber reported by the source. Features are copied from the page description, not independently tested in-game.",
+      "proof": "https://getmcpe.com/speedrun-seeds/",
+      "verificationMethod": "Public Bedrock seed article; not independently tested in-game."
+    },
+    {
+      "id": "bedrock-2663-getmcpe-810091875751072991",
+      "seed": "810091875751072991",
+      "version": "26.63",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Stronghold",
+        "Trial chamber"
+      ],
+      "verifiedFeatures": [],
+      "source": "Community",
+      "status": "Unverified",
+      "notes": "Community-listed Bedrock 26.63 candidate. River and village spawn; source reports a nearby trial chamber and stronghold. Features are copied from the page description, not independently tested in-game.",
+      "proof": "https://getmcpe.com/speedrun-seeds/",
+      "verificationMethod": "Public Bedrock seed article; not independently tested in-game."
+    },
+    {
+      "id": "bedrock-2663-getmcpe-8052724501492962527",
+      "seed": "8052724501492962527",
+      "version": "26.63",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [],
+      "source": "Community",
+      "status": "Unverified",
+      "notes": "Community-listed Bedrock 26.63 candidate. Cherry grove river spawn with a village, ruined portal, and nearby stronghold reported by the source. Features are copied from the page description, not independently tested in-game.",
+      "proof": "https://getmcpe.com/speedrun-seeds/",
+      "verificationMethod": "Public Bedrock seed article; not independently tested in-game."
+    },
+    {
+      "id": "bedrock-2663-getmcpe-neg1442298055052022173",
+      "seed": "-1442298055052022173",
+      "version": "26.63",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Trial chamber"
+      ],
+      "verifiedFeatures": [],
+      "source": "Community",
+      "status": "Unverified",
+      "notes": "Community-listed Bedrock 26.63 candidate. Plains village near spawn with a ruined portal and trial chamber reported by the source. Features are copied from the page description, not independently tested in-game.",
+      "proof": "https://getmcpe.com/speedrun-seeds/",
+      "verificationMethod": "Public Bedrock seed article; not independently tested in-game."
+    },
+    {
+      "id": "bedrock-2663-getmcpe-neg134826501498726115",
+      "seed": "-134826501498726115",
+      "version": "26.63",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Trial chamber"
+      ],
+      "verifiedFeatures": [],
+      "source": "Community",
+      "status": "Unverified",
+      "notes": "Community-listed Bedrock 26.63 candidate. Valley village near spawn; source reports a nearby trial chamber. Features are copied from the page description, not independently tested in-game.",
+      "proof": "https://getmcpe.com/speedrun-seeds/",
+      "verificationMethod": "Public Bedrock seed article; not independently tested in-game."
+    },
+    {
+      "id": "bedrock-2663-getmcpe-neg8206081866505709855",
+      "seed": "-8206081866505709855",
+      "version": "26.63",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [],
+      "source": "Community",
+      "status": "Unverified",
+      "notes": "Community-listed Bedrock 26.63 candidate. Plains village near spawn; source reports a nearby stronghold. Features are copied from the page description, not independently tested in-game.",
+      "proof": "https://getmcpe.com/speedrun-seeds/",
+      "verificationMethod": "Public Bedrock seed article; not independently tested in-game."
+    },
+    {
+      "id": "bedrock-2663-getmcpe-8565335483387195728",
+      "seed": "8565335483387195728",
+      "version": "26.63",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold",
+        "Desert temple"
+      ],
+      "verifiedFeatures": [],
+      "source": "Community",
+      "status": "Unverified",
+      "notes": "Community-listed Bedrock 26.63 candidate. Coastal plains village beside a ruined portal; source reports a nearby stronghold and a desert temple farther away. Features are copied from the page description, not independently tested in-game.",
+      "proof": "https://getmcpe.com/speedrun-seeds/",
+      "verificationMethod": "Public Bedrock seed article; not independently tested in-game."
+    },
+    {
+      "id": "bedrock-2663-getmcpe-5989927824910610702",
+      "seed": "5989927824910610702",
+      "version": "26.63",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Trial chamber"
+      ],
+      "verifiedFeatures": [],
+      "source": "Community",
+      "status": "Unverified",
+      "notes": "Community-listed Bedrock 26.63 candidate. Taiga village with a ruined portal between the houses and a trial chamber reported nearby. Features are copied from the page description, not independently tested in-game.",
+      "proof": "https://getmcpe.com/speedrun-seeds/",
+      "verificationMethod": "Public Bedrock seed article; not independently tested in-game."
     }
   ],
   "seedCount": 26,
