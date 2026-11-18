@@ -7,184 +7,149 @@
   "method": "Generated with Bedrock worldgen; source reports village and ruined portal within 300 blocks of estimated spawn, fortress within 300 Nether blocks of the spawn portal position, and stronghold within 1,200 blocks. Spawn is estimated; fortress distance uses spawn X/Z divided by 8.",
   "seeds": [
     {
-      "id": "bedrock-263-mctools-728898429",
-      "seed": "728898429",
-      "version": "1.18+",
-      "category": "FSG",
+      "id": "bedrock-263-chunkscan-2080744795",
+      "seed": "2080744795",
+      "version": "26.3",
+      "category": "Filtered FSG",
       "difficulty": "Not rated",
       "features": [
         "Village",
-        "Ruined portal",
-        "Fortress",
-        "Stronghold"
+        "Ruined portal"
       ],
       "verifiedFeatures": [
         "Village",
-        "Ruined portal",
-        "Fortress",
-        "Stronghold"
+        "Ruined portal"
       ],
       "source": "Community",
       "status": "Source-confirmed",
-      "notes": "Bedrock 26.3 source-checked seed (A · 84). Village 283 blocks from estimated spawn; ruined portal 217 blocks from spawn; fortress 296 Nether blocks from the spawn-portal position; stronghold 923 blocks from spawn. Spawn coordinates are estimates. Fortress distance is measured from the spawn portal position (spawn X/Z divided by 8), not guaranteed from the generated ruined-portal frame. No in-game chest loot, lava-pool proximity, or other unlisted features are confirmed.",
-      "proof": "https://minecrafttools.wiki/seed-finder/best/speedrun",
-      "verificationMethod": "Bedrock 26.3 seed finder using Bedrock world generation; exact structure positions, estimated spawn.",
-      "routeBasis": "spawn-divided-by-8"
+      "notes": "Bedrock 26.3 ChunkScan scanned candidate. Grove spawn. Ruined portal at spawn; village 189 blocks away; trail ruins 148 blocks away. Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
     },
     {
-      "id": "bedrock-263-mctools-n80062129",
-      "seed": "-80062129",
-      "version": "1.18+",
-      "category": "FSG",
+      "id": "bedrock-263-chunkscan-1663530236",
+      "seed": "1663530236",
+      "version": "26.3",
+      "category": "Filtered FSG",
       "difficulty": "Not rated",
       "features": [
         "Village",
-        "Ruined portal",
-        "Fortress",
-        "Stronghold"
+        "Ruined portal"
       ],
       "verifiedFeatures": [
         "Village",
-        "Ruined portal",
-        "Fortress",
-        "Stronghold"
+        "Ruined portal"
       ],
       "source": "Community",
       "status": "Source-confirmed",
-      "notes": "Bedrock 26.3 source-checked seed (A · 83). Village 168 blocks from estimated spawn; ruined portal 233 blocks from spawn; fortress 66 Nether blocks from the spawn-portal position; stronghold 962 blocks from spawn. Spawn coordinates are estimates. Fortress distance is measured from the spawn portal position (spawn X/Z divided by 8), not guaranteed from the generated ruined-portal frame. No in-game chest loot, lava-pool proximity, or other unlisted features are confirmed.",
-      "proof": "https://minecrafttools.wiki/seed-finder/best/speedrun",
-      "verificationMethod": "Bedrock 26.3 seed finder using Bedrock world generation; exact structure positions, estimated spawn.",
-      "routeBasis": "spawn-divided-by-8"
+      "notes": "Bedrock 26.3 ChunkScan scanned candidate. Taiga spawn. Ruined portal 60 blocks from spawn; village reported at spawn; trial chamber 119 blocks away. Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
     },
     {
-      "id": "bedrock-263-mctools-862748591",
-      "seed": "862748591",
-      "version": "1.18+",
-      "category": "FSG",
+      "id": "bedrock-263-chunkscan-1488781562",
+      "seed": "1488781562",
+      "version": "26.3",
+      "category": "Filtered FSG",
       "difficulty": "Not rated",
       "features": [
         "Village",
-        "Ruined portal",
-        "Fortress",
-        "Stronghold"
+        "Ruined portal"
       ],
       "verifiedFeatures": [
         "Village",
-        "Ruined portal",
-        "Fortress",
-        "Stronghold"
+        "Ruined portal"
       ],
       "source": "Community",
       "status": "Source-confirmed",
-      "notes": "Bedrock 26.3 source-checked seed (A · 81). Village 286 blocks from estimated spawn; ruined portal 183 blocks from spawn; fortress 278 Nether blocks from the spawn-portal position; stronghold 1,143 blocks from spawn. Spawn coordinates are estimates. Fortress distance is measured from the spawn portal position (spawn X/Z divided by 8), not guaranteed from the generated ruined-portal frame. No in-game chest loot, lava-pool proximity, or other unlisted features are confirmed.",
-      "proof": "https://minecrafttools.wiki/seed-finder/best/speedrun",
-      "verificationMethod": "Bedrock 26.3 seed finder using Bedrock world generation; exact structure positions, estimated spawn.",
-      "routeBasis": "spawn-divided-by-8"
+      "notes": "Bedrock 26.3 ChunkScan scanned candidate. Desert spawn. Ruined portal at spawn; village 193 blocks away; desert pyramid 126 blocks away. Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
     },
     {
-      "id": "bedrock-263-mctools-572983091",
-      "seed": "572983091",
-      "version": "1.18+",
-      "category": "FSG",
+      "id": "bedrock-263-chunkscan-1253974758",
+      "seed": "1253974758",
+      "version": "26.3",
+      "category": "Filtered FSG",
       "difficulty": "Not rated",
       "features": [
         "Village",
-        "Ruined portal",
-        "Fortress",
-        "Stronghold"
+        "Ruined portal"
       ],
       "verifiedFeatures": [
         "Village",
-        "Ruined portal",
-        "Fortress",
-        "Stronghold"
+        "Ruined portal"
       ],
       "source": "Community",
       "status": "Source-confirmed",
-      "notes": "Bedrock 26.3 source-checked seed (A · 80). Village 219 blocks from estimated spawn; ruined portal 258 blocks from spawn; fortress 225 Nether blocks from the spawn-portal position; stronghold 1,177 blocks from spawn. Spawn coordinates are estimates. Fortress distance is measured from the spawn portal position (spawn X/Z divided by 8), not guaranteed from the generated ruined-portal frame. No in-game chest loot, lava-pool proximity, or other unlisted features are confirmed.",
-      "proof": "https://minecrafttools.wiki/seed-finder/best/speedrun",
-      "verificationMethod": "Bedrock 26.3 seed finder using Bedrock world generation; exact structure positions, estimated spawn.",
-      "routeBasis": "spawn-divided-by-8"
+      "notes": "Bedrock 26.3 ChunkScan scanned candidate. Birch Forest spawn. Ruined portal at spawn; village 175 blocks away; trial chamber 92 blocks away. Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
     },
     {
-      "id": "bedrock-263-mctools-n326424550",
-      "seed": "-326424550",
-      "version": "1.18+",
-      "category": "FSG",
+      "id": "bedrock-263-chunkscan-1232215338",
+      "seed": "1232215338",
+      "version": "26.3",
+      "category": "Filtered FSG",
       "difficulty": "Not rated",
       "features": [
         "Village",
-        "Ruined portal",
-        "Fortress",
-        "Stronghold"
+        "Ruined portal"
       ],
       "verifiedFeatures": [
         "Village",
-        "Ruined portal",
-        "Fortress",
-        "Stronghold"
+        "Ruined portal"
       ],
       "source": "Community",
       "status": "Source-confirmed",
-      "notes": "Bedrock 26.3 source-checked seed (A · 78). Village 111 blocks from estimated spawn; ruined portal 276 blocks from spawn; fortress 47 Nether blocks from the spawn-portal position; stronghold 957 blocks from spawn. Spawn coordinates are estimates. Fortress distance is measured from the spawn portal position (spawn X/Z divided by 8), not guaranteed from the generated ruined-portal frame. No in-game chest loot, lava-pool proximity, or other unlisted features are confirmed.",
-      "proof": "https://minecrafttools.wiki/seed-finder/best/speedrun",
-      "verificationMethod": "Bedrock 26.3 seed finder using Bedrock world generation; exact structure positions, estimated spawn.",
-      "routeBasis": "spawn-divided-by-8"
+      "notes": "Bedrock 26.3 ChunkScan scanned candidate. Plains spawn. Ruined portal at spawn; village 147 blocks away; trial chamber 137 blocks away. Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
     },
     {
-      "id": "bedrock-263-mctools-n1537408183",
-      "seed": "-1537408183",
-      "version": "1.18+",
-      "category": "FSG",
+      "id": "bedrock-263-chunkscan-1224125899",
+      "seed": "1224125899",
+      "version": "26.3",
+      "category": "Filtered FSG",
       "difficulty": "Not rated",
       "features": [
         "Village",
-        "Ruined portal",
-        "Fortress",
-        "Stronghold"
+        "Ruined portal"
       ],
       "verifiedFeatures": [
         "Village",
-        "Ruined portal",
-        "Fortress",
-        "Stronghold"
+        "Ruined portal"
       ],
       "source": "Community",
       "status": "Source-confirmed",
-      "notes": "Bedrock 26.3 source-checked seed (A · 78). Village 229 blocks from estimated spawn; ruined portal 299 blocks from spawn; fortress 283 Nether blocks from the spawn-portal position; stronghold 744 blocks from spawn. Spawn coordinates are estimates. Fortress distance is measured from the spawn portal position (spawn X/Z divided by 8), not guaranteed from the generated ruined-portal frame. No in-game chest loot, lava-pool proximity, or other unlisted features are confirmed.",
-      "proof": "https://minecrafttools.wiki/seed-finder/best/speedrun",
-      "verificationMethod": "Bedrock 26.3 seed finder using Bedrock world generation; exact structure positions, estimated spawn.",
-      "routeBasis": "spawn-divided-by-8"
+      "notes": "Bedrock 26.3 ChunkScan scanned candidate. Snowy Plains spawn. Ruined portal at spawn; village 158 blocks away; trial chamber at spawn. Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
     },
     {
-      "id": "bedrock-263-mctools-n500891358",
-      "seed": "-500891358",
-      "version": "1.18+",
-      "category": "FSG",
+      "id": "bedrock-263-chunkscan-1106041028",
+      "seed": "1106041028",
+      "version": "26.3",
+      "category": "Filtered FSG",
       "difficulty": "Not rated",
       "features": [
         "Village",
-        "Ruined portal",
-        "Fortress",
-        "Stronghold"
+        "Ruined portal"
       ],
       "verifiedFeatures": [
         "Village",
-        "Ruined portal",
-        "Fortress",
-        "Stronghold"
+        "Ruined portal"
       ],
       "source": "Community",
       "status": "Source-confirmed",
-      "notes": "Bedrock 26.3 source-checked seed (A · 77). Village 286 blocks from estimated spawn; ruined portal 233 blocks from spawn; fortress 250 Nether blocks from the spawn-portal position; stronghold 798 blocks from spawn. Spawn coordinates are estimates. Fortress distance is measured from the spawn portal position (spawn X/Z divided by 8), not guaranteed from the generated ruined-portal frame. No in-game chest loot, lava-pool proximity, or other unlisted features are confirmed.",
-      "proof": "https://minecrafttools.wiki/seed-finder/best/speedrun",
-      "verificationMethod": "Bedrock 26.3 seed finder using Bedrock world generation; exact structure positions, estimated spawn.",
-      "routeBasis": "spawn-divided-by-8"
+      "notes": "Bedrock 26.3 ChunkScan scanned candidate. Plains spawn. Ruined portal at spawn; village 136 blocks away; trial chamber 236 blocks away. Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
     },
     {
       "id": "bedrock-263-mctools-914904017",
       "seed": "914904017",
-      "version": "1.18+",
+      "version": "26.3",
       "category": "FSG",
       "difficulty": "Not rated",
       "features": [
@@ -207,9 +172,339 @@
       "routeBasis": "spawn-divided-by-8"
     },
     {
+      "id": "bedrock-263-mctools-862748591",
+      "seed": "862748591",
+      "version": "26.3",
+      "category": "FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Fortress",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Fortress",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 source-checked seed (A · 81). Village 286 blocks from estimated spawn; ruined portal 183 blocks from spawn; fortress 278 Nether blocks from the spawn-portal position; stronghold 1,143 blocks from spawn. Spawn coordinates are estimates. Fortress distance is measured from the spawn portal position (spawn X/Z divided by 8), not guaranteed from the generated ruined-portal frame. No in-game chest loot, lava-pool proximity, or other unlisted features are confirmed.",
+      "proof": "https://minecrafttools.wiki/seed-finder/best/speedrun",
+      "verificationMethod": "Bedrock 26.3 seed finder using Bedrock world generation; exact structure positions, estimated spawn.",
+      "routeBasis": "spawn-divided-by-8"
+    },
+    {
+      "id": "bedrock-263-chunkscan-858578427",
+      "seed": "858578427",
+      "version": "26.3",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 ChunkScan scanned candidate. Desert spawn. Ruined portal 156 blocks from spawn; village reported at spawn; ocean ruins 123 blocks away. Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
+    },
+    {
+      "id": "bedrock-263-mctools-728898429",
+      "seed": "728898429",
+      "version": "26.3",
+      "category": "FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Fortress",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Fortress",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 source-checked seed (A · 84). Village 283 blocks from estimated spawn; ruined portal 217 blocks from spawn; fortress 296 Nether blocks from the spawn-portal position; stronghold 923 blocks from spawn. Spawn coordinates are estimates. Fortress distance is measured from the spawn portal position (spawn X/Z divided by 8), not guaranteed from the generated ruined-portal frame. No in-game chest loot, lava-pool proximity, or other unlisted features are confirmed.",
+      "proof": "https://minecrafttools.wiki/seed-finder/best/speedrun",
+      "verificationMethod": "Bedrock 26.3 seed finder using Bedrock world generation; exact structure positions, estimated spawn.",
+      "routeBasis": "spawn-divided-by-8"
+    },
+    {
+      "id": "bedrock-263-mctools-572983091",
+      "seed": "572983091",
+      "version": "26.3",
+      "category": "FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Fortress",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Fortress",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 source-checked seed (A · 80). Village 219 blocks from estimated spawn; ruined portal 258 blocks from spawn; fortress 225 Nether blocks from the spawn-portal position; stronghold 1,177 blocks from spawn. Spawn coordinates are estimates. Fortress distance is measured from the spawn portal position (spawn X/Z divided by 8), not guaranteed from the generated ruined-portal frame. No in-game chest loot, lava-pool proximity, or other unlisted features are confirmed.",
+      "proof": "https://minecrafttools.wiki/seed-finder/best/speedrun",
+      "verificationMethod": "Bedrock 26.3 seed finder using Bedrock world generation; exact structure positions, estimated spawn.",
+      "routeBasis": "spawn-divided-by-8"
+    },
+    {
+      "id": "bedrock-263-chunkscan-303899446",
+      "seed": "303899446",
+      "version": "26.3",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 ChunkScan scanned candidate. Plains spawn. Ruined portal 157 blocks from spawn; village 126 blocks away; buried treasure marker 225 blocks away (not checked for nearby lava). Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
+    },
+    {
+      "id": "bedrock-263-chunkscan-163453169",
+      "seed": "163453169",
+      "version": "26.3",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 ChunkScan scanned candidate. Savanna spawn. Ruined portal 56 blocks from spawn; village reported at spawn; trial chamber 146 blocks away. Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
+    },
+    {
+      "id": "bedrock-263-chunkscan-16486532",
+      "seed": "16486532",
+      "version": "26.3",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 ChunkScan scanned candidate. Flower Forest spawn. Ruined portal at spawn; village 136 blocks away; trial chamber 281 blocks away. Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
+    },
+    {
+      "id": "bedrock-263-mctools-n80062129",
+      "seed": "-80062129",
+      "version": "26.3",
+      "category": "FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Fortress",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Fortress",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 source-checked seed (A · 83). Village 168 blocks from estimated spawn; ruined portal 233 blocks from spawn; fortress 66 Nether blocks from the spawn-portal position; stronghold 962 blocks from spawn. Spawn coordinates are estimates. Fortress distance is measured from the spawn portal position (spawn X/Z divided by 8), not guaranteed from the generated ruined-portal frame. No in-game chest loot, lava-pool proximity, or other unlisted features are confirmed.",
+      "proof": "https://minecrafttools.wiki/seed-finder/best/speedrun",
+      "verificationMethod": "Bedrock 26.3 seed finder using Bedrock world generation; exact structure positions, estimated spawn.",
+      "routeBasis": "spawn-divided-by-8"
+    },
+    {
+      "id": "bedrock-263-mctools-n326424550",
+      "seed": "-326424550",
+      "version": "26.3",
+      "category": "FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Fortress",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Fortress",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 source-checked seed (A · 78). Village 111 blocks from estimated spawn; ruined portal 276 blocks from spawn; fortress 47 Nether blocks from the spawn-portal position; stronghold 957 blocks from spawn. Spawn coordinates are estimates. Fortress distance is measured from the spawn portal position (spawn X/Z divided by 8), not guaranteed from the generated ruined-portal frame. No in-game chest loot, lava-pool proximity, or other unlisted features are confirmed.",
+      "proof": "https://minecrafttools.wiki/seed-finder/best/speedrun",
+      "verificationMethod": "Bedrock 26.3 seed finder using Bedrock world generation; exact structure positions, estimated spawn.",
+      "routeBasis": "spawn-divided-by-8"
+    },
+    {
+      "id": "bedrock-263-mctools-n500891358",
+      "seed": "-500891358",
+      "version": "26.3",
+      "category": "FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Fortress",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Fortress",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 source-checked seed (A · 77). Village 286 blocks from estimated spawn; ruined portal 233 blocks from spawn; fortress 250 Nether blocks from the spawn-portal position; stronghold 798 blocks from spawn. Spawn coordinates are estimates. Fortress distance is measured from the spawn portal position (spawn X/Z divided by 8), not guaranteed from the generated ruined-portal frame. No in-game chest loot, lava-pool proximity, or other unlisted features are confirmed.",
+      "proof": "https://minecrafttools.wiki/seed-finder/best/speedrun",
+      "verificationMethod": "Bedrock 26.3 seed finder using Bedrock world generation; exact structure positions, estimated spawn.",
+      "routeBasis": "spawn-divided-by-8"
+    },
+    {
+      "id": "bedrock-263-chunkscan-n592881486",
+      "seed": "-592881486",
+      "version": "26.3",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 ChunkScan scanned candidate. Snowy Taiga spawn. Ruined portal at spawn; village 148 blocks away; trial chamber 96 blocks away. Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
+    },
+    {
+      "id": "bedrock-263-chunkscan-n597600325",
+      "seed": "-597600325",
+      "version": "26.3",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 ChunkScan scanned candidate. Plains spawn. Ruined portal at spawn; village 113 blocks away; trial chamber 69 blocks away. Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
+    },
+    {
+      "id": "bedrock-263-chunkscan-n671605243",
+      "seed": "-671605243",
+      "version": "26.3",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 ChunkScan scanned candidate. Snowy Slopes spawn. Ruined portal at spawn; village 141 blocks away; ocean ruins 181 blocks away. Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
+    },
+    {
+      "id": "bedrock-263-chunkscan-n810423519",
+      "seed": "-810423519",
+      "version": "26.3",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 ChunkScan scanned candidate. Old Growth Birch Forest spawn. Ruined portal 122 blocks from spawn; village 79 blocks away; trail ruins at spawn. Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
+    },
+    {
+      "id": "bedrock-263-chunkscan-n1000635553",
+      "seed": "-1000635553",
+      "version": "26.3",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 ChunkScan scanned candidate. Snowy Taiga spawn. Ruined portal at spawn; village 197 blocks away; buried treasure marker 111 blocks away (not checked for nearby lava). Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
+    },
+    {
       "id": "bedrock-263-mctools-n1472740917",
       "seed": "-1472740917",
-      "version": "1.18+",
+      "version": "26.3",
       "category": "FSG",
       "difficulty": "Not rated",
       "features": [
@@ -230,6 +525,53 @@
       "proof": "https://minecrafttools.wiki/seed-finder/best/speedrun",
       "verificationMethod": "Bedrock 26.3 seed finder using Bedrock world generation; exact structure positions, estimated spawn.",
       "routeBasis": "spawn-divided-by-8"
+    },
+    {
+      "id": "bedrock-263-mctools-n1537408183",
+      "seed": "-1537408183",
+      "version": "26.3",
+      "category": "FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Fortress",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Fortress",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 source-checked seed (A · 78). Village 229 blocks from estimated spawn; ruined portal 299 blocks from spawn; fortress 283 Nether blocks from the spawn-portal position; stronghold 744 blocks from spawn. Spawn coordinates are estimates. Fortress distance is measured from the spawn portal position (spawn X/Z divided by 8), not guaranteed from the generated ruined-portal frame. No in-game chest loot, lava-pool proximity, or other unlisted features are confirmed.",
+      "proof": "https://minecrafttools.wiki/seed-finder/best/speedrun",
+      "verificationMethod": "Bedrock 26.3 seed finder using Bedrock world generation; exact structure positions, estimated spawn.",
+      "routeBasis": "spawn-divided-by-8"
+    },
+    {
+      "id": "bedrock-263-chunkscan-n2054163247",
+      "seed": "-2054163247",
+      "version": "26.3",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "Bedrock 26.3 ChunkScan scanned candidate. Forest spawn. Ruined portal at spawn; village 118 blocks away; trial chamber 70 blocks away. Only village and ruined portal are confirmed by this list; other named structures are context, not added to feature filters.",
+      "proof": "https://chunkscan.com/seeds/speedrun-bedrock",
+      "verificationMethod": "Community Bedrock 26.3 seed scan; village and ruined portal within 200 blocks of spawn."
     }
-  ]
+  ],
+  "seedCount": 26,
+  "note": "Seed records retain the exact version and source scope. A source-confirmed status means the cited scanner reports those listed structures; it is not a manual in-game loot check."
 }
