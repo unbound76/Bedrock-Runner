@@ -55,7 +55,7 @@
 <div class="field wide"><h3>Submit a seed</h3><div class="sub">Adds a seed to this browser. Choose the version and describe only features you have checked. Select “I tested it in-game” only if you personally tested it. Submissions stay on this device until you export them; they are not sent to GitHub.</div></div>
 <div class="field wide"><h3>Import / export</h3><div class="sub">Export downloads your local library as JSON. Import merges valid entries from a compatible JSON file without adding duplicate seed/version pairs. Clear local library deletes the saved local entries and favorites from this browser.</div></div>
 <div class="field wide"><h3>What do the labels mean?</h3><div class="sub"><b>Verified:</b> marked as checked in-game by the submitter. <b>Unverified:</b> a lead that still needs checking. <b>Community:</b> the entry came from a community source. <b>Official:</b> a source published by the relevant category/tool maintainers. These labels describe provenance; they do not guarantee a fast run.</div></div>
-<div class="field wide"><h3>Important: FSG vs practice starts</h3><div class="sub">The starter library includes community-listed practice seeds, not a complete verified FSG seed bank. The starter library now includes Bedrock 26.3 community-scanned speedrun candidates. Some route candidates have a village, ruined portal, nearby Nether fortress and stronghold according to the linked scan. These are not official FSG preset seeds, and older 1.18+ versions may generate structures differently; check the target version before running. The linked FSG generator is the proper place to generate current filtered candidates.</div></div>
+<div class="field wide"><h3>Important: FSG vs practice starts</h3><div class="sub">The starter library includes community-listed practice seeds, not a complete verified FSG seed bank. The starter library includes 8,298 seed entries from public Bedrock 1.16 FSG seed lists, plus Bedrock 26.3 community-scanned speedrun candidates. Some route candidates have a village, ruined portal, nearby Nether fortress and stronghold according to the linked scan. The imported 1.16 lists preserve their Classic, Ruined Portal and Stronghold pool labels. They are marked unverified because this app has not individually tested every seed. The separate 1.18+ entries are community-scanned practice candidates, not a complete FSG database. The linked FSG generator is the proper place to generate current filtered candidates.</div></div>
 <div class="field wide"><h3>Seed sources</h3><div class="sub"><a style="color:var(--green)" href="https://minecraft-fsg.com/" target="_blank" rel="noreferrer">Official Bedrock FSG generator</a> · <a style="color:var(--green)" href="https://www.speedrun.com/bfsg" target="_blank" rel="noreferrer">Bedrock FSG leaderboard</a> · <a style="color:var(--green)" href="https://chunkscan.com/seeds/speedrun-bedrock" target="_blank" rel="noreferrer">ChunkScan Bedrock speedrun starts</a> · <a style="color:var(--green)" href="https://minecrafttools.wiki/seed-finder/best/speedrun" target="_blank" rel="noreferrer">Minecraft Tools Bedrock 26.3 speedrun scans</a></div></div>
 </div></section>
 <section id="manage" class="panel hidden"><div class="panelhead"><div><h3>Manage your library</h3><div class="sub">Back up your seeds or move them between devices with a JSON file.</div></div></div><div class="actions"><button class="primary" id="exportBtn">Export seed library</button><label class="secondary" style="cursor:pointer">Import JSON<input type="file" id="importFile" accept=".json,application/json" hidden></label><button class="secondary" id="clearBtn">Clear local library</button></div><div class="note">Your seed entries, favorites and history are stored locally in this browser. Export regularly if you want to keep them.</div><div class="sub" id="manageStatus" style="margin-top:13px"></div></section>
@@ -78,6 +78,38 @@ function switchTab(tab){document.querySelectorAll('.tab').forEach(b=>b.classList
 document.querySelectorAll('.tab').forEach(b=>b.addEventListener('click',()=>switchTab(b.dataset.tab)));$('submitTop').onclick=()=>switchTab('submit');
 function selectedFeatures(){return [...document.querySelectorAll('.feature:checked')].map(x=>x.value)}
 function getMatches(){const v=$('version').value,c=$('category').value,d=$('difficulty').value,s=$('source').value,q=$('searchText').value.trim().toLowerCase(),f=selectedFeatures();return seeds.filter(x=>(v==='any'||x.version===v)&&(c==='any'||x.category===c)&&(d==='any'||x.difficulty===d)&&(s==='any'||(s==='Community'||s==='Official'?x.source===s:x.status===s))&&f.every(t=>(x.features||[]).includes(t))&&(!q||String(x.seed).includes(q)||(x.notes||'').toLowerCase().includes(q))).slice(0,Number($('batch').value))}
+
+async function loadLargeSeedPools(){
+ const pools=[
+  {path:'data/bedrock-1.16-classic.json',name:'Classic 1.16 FSG',category:'FSG',features:[]},
+  {path:'data/bedrock-1.16-ruined-portal.json',name:'1.16 Ruined Portal FSG',category:'Filtered FSG',features:['Ruined portal']},
+  {path:'data/bedrock-1.16-stronghold.json',name:'1.16 Stronghold FSG',category:'FSG',features:['Stronghold']}
+ ];
+ let added=0;
+ for(const pool of pools){
+  try{
+   const response=await fetch(pool.path);
+   if(!response.ok) throw new Error('HTTP '+response.status);
+   const numbers=await response.json();
+   numbers.forEach(seed=>{
+    const id='pool-'+pool.path.split('/').pop().replace('.json','')+'-'+seed;
+    if(!seeds.some(x=>x.id===id)){
+     seeds.push({id,seed:String(seed),version:'1.16',category:pool.category,difficulty:'Medium',features:pool.features,source:'Community',status:'Unverified',notes:'Imported from the public Bedrock 1.16 FSG seed list: '+pool.name+'. The list classification is preserved; this app has not individually re-tested this seed in-game.',proof:'https://github.com/maehy/Bedrock-1.16-fsg'});
+     added++;
+    }
+   });
+  }catch(error){console.warn('Could not load seed pool',pool.path,error)}
+ }
+ if(added){
+  matches=getMatches();
+  save();
+  render(matches,'Seed library');
+  toast('Loaded '+added.toLocaleString()+' additional 1.16 seeds');
+ }else{
+  updateStats();
+ }
+}
+
 function render(list,title){$('resultsTitle').textContent=title;$('resultsSubtitle').textContent=list.length?'Seed entries from your local library':'No matching entries';$('resultCount').textContent=list.length+' result'+(list.length===1?'':'s');$('results').innerHTML=list.length?list.map(seedCard).join(''):'<div class="empty"><strong>No matching seeds</strong>Try changing the filters, submit a seed you have tested, or import a library. No random seed numbers are being presented as verified runs.</div>';document.querySelectorAll('[data-copy]').forEach(b=>b.onclick=()=>copySeed(b.dataset.copy));document.querySelectorAll('[data-fav]').forEach(b=>b.onclick=()=>toggleFav(b.dataset.fav));document.querySelectorAll('[data-detail]').forEach(b=>b.onclick=()=>details(b.dataset.detail))}
 function seedCard(s){const fav=favorites.includes(s.id);return '<article class="seed"><div><div class="seedtop"><span class="seednum">'+esc(s.seed)+'</span><span class="tag '+(s.status==='Verified'?'':'pending')+'">'+esc(s.status||'Unverified')+'</span><span class="tag">'+esc(s.category)+'</span></div><div class="seedmeta"><span>Bedrock '+esc(s.version)+'</span><span>'+esc(s.difficulty)+'</span><span>'+esc(s.source||'Community')+'</span></div><div class="seednotes">'+esc((s.features||[]).join(' · ')||'No features listed')+(s.notes?' — '+esc(s.notes):'')+'</div></div><div class="seedbuttons"><button class="iconbtn" data-copy="'+esc(s.id)+'">Copy</button><button class="iconbtn '+(fav?'saved':'')+'" data-fav="'+esc(s.id)+'">'+(fav?'★':'☆')+'</button><button class="iconbtn" data-detail="'+esc(s.id)+'">Details</button></div></article>'}
 function copySeed(id){const s=seeds.find(x=>x.id===id);if(!s)return;navigator.clipboard?.writeText(String(s.seed)).then(()=>toast('Seed copied')).catch(()=>toast('Copy unavailable in this browser'))}
@@ -90,7 +122,7 @@ $('seedForm').onsubmit=e=>{e.preventDefault();const seed=$('newSeed').value.trim
 $('exportBtn').onclick=()=>{const blob=new Blob([JSON.stringify({app:'Bedrock Runner',version:1,seeds},null,2)],{type:'application/json'}),a=document.createElement('a'),url=URL.createObjectURL(blob);a.href=url;a.download='bedrock-runner-seeds.json';a.click();URL.revokeObjectURL(url);toast('Library exported')};
 $('importFile').onchange=async e=>{const file=e.target.files[0];if(!file)return;try{const data=JSON.parse(await file.text()),incoming=Array.isArray(data)?data:data.seeds;if(!Array.isArray(incoming))throw Error('Invalid file');let added=0;incoming.forEach(x=>{if(x&&/^-?\d+$/.test(String(x.seed))&&['1.16','1.18+'].includes(x.version)&&!seeds.some(y=>String(y.seed)===String(x.seed)&&y.version===x.version)){seeds.push({...x,id:x.id||'s'+Date.now().toString(36)+Math.random().toString(36).slice(2,5),features:Array.isArray(x.features)?x.features:[],status:x.status==='Verified'?'Verified':'Unverified'});added++}});save();toast('Imported '+added+' seed(s)');$('manageStatus').textContent='Imported '+added+' entries. Total: '+seeds.length}catch(err){toast('Could not read that seed file')}e.target.value=''};
 $('clearBtn').onclick=()=>{if(confirm('Clear all seed entries and favorites stored in this browser? Export a backup first if needed.')){seeds=[];favorites=[];history=[];save();matches=[];render(matches,'Seed library');toast('Local library cleared')}};
-matches=getMatches();render(matches,'Seed library');updateStats();save();
+matches=getMatches();render(matches,'Seed library');updateStats();save();loadLargeSeedPools();
 })();
 </script>
 </body></html>
