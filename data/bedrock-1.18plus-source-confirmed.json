@@ -1,10 +1,10 @@
 {
-  "source": "Minecraft Tools — Speedrun Seeds, Bedrock 26.3",
+  "source": "Mixed Bedrock seed sources — per-seed source links and status are authoritative",
   "sourceUrl": "https://minecrafttools.wiki/seed-finder/best/speedrun",
   "checkedOn": "2026-11-18",
   "edition": "Bedrock",
   "version": "26.3",
-  "method": "Generated with Bedrock worldgen; source reports village and ruined portal within 300 blocks of estimated spawn, fortress within 300 Nether blocks of the spawn portal position, and stronghold within 1,200 blocks. Spawn is estimated; fortress distance uses spawn X/Z divided by 8.",
+  "method": "Includes source-confirmed entries and community-listed unverified candidates. Source-listed features can be used by filters, but unverified records have not been individually tested in-game. See each seed's proof URL and notes.",
   "seeds": [
     {
       "id": "bedrock-263-chunkscan-2080744795",
