@@ -2320,10 +2320,480 @@
       "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village + pillager outpost start. Village 232 blocks; outpost 79 blocks; ruined portal 362 blocks; stronghold approx. 790 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
       "proof": "https://mcseeder.com/seeds/bedrock-village-and-pillager-outpost/",
       "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-18-0-1-18-3x-1345093431229956",
+      "seed": "1345093431229956",
+      "version": "1.18.0-1.18.3x",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Village 25 blocks; ruined portal 204 blocks; shipwreck 335 blocks; stronghold approx. 824 blocks. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.18/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-18-0-1-18-3x-1565734922847308",
+      "seed": "1565734922847308",
+      "version": "1.18.0-1.18.3x",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Village 69 blocks; ruined portal 61 blocks; shipwreck 305 blocks; stronghold approx. 919 blocks. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.18/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-18-0-1-18-3x-310266554366482601",
+      "seed": "310266554366482601",
+      "version": "1.18.0-1.18.3x",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Village 56 blocks; ruined portal 208 blocks; stronghold approx. 772 blocks. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.18/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-18-0-1-18-3x-260065589445423",
+      "seed": "260065589445423",
+      "version": "1.18.0-1.18.3x",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Bastion",
+        "Fortress"
+      ],
+      "verifiedFeatures": [
+        "Bastion",
+        "Fortress"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Nether 0,0: Bastion 72 blocks; Fortress 76 blocks. Estimated Overworld spawn 208,240. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.18/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-19-x-90777567604081",
+      "seed": "90777567604081",
+      "version": "1.19.x",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Village 11 blocks; shipwreck 184 blocks; ruined portal 283 blocks; stronghold approx. 3.4k blocks. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.19/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-19-x-936586752659467",
+      "seed": "936586752659467",
+      "version": "1.19.x",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Village 47 blocks; ruined portal 97 blocks; shipwreck 294 blocks; stronghold approx. 844 blocks. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.19/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-19-x-192528112239690",
+      "seed": "192528112239690",
+      "version": "1.19.x",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Bastion",
+        "Fortress"
+      ],
+      "verifiedFeatures": [
+        "Bastion",
+        "Fortress"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Nether 0,0: Bastion 61 blocks; Fortress 91 blocks. Estimated Overworld spawn 16,16. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.19/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-20-0-1-20-51-1372280476177762",
+      "seed": "1372280476177762",
+      "version": "1.20.0-1.20.51",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Village 11 blocks; shipwreck 184 blocks; ruined portal 248 blocks; stronghold approx. 915 blocks. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.20/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-20-0-1-20-51-363966959780205",
+      "seed": "363966959780205",
+      "version": "1.20.0-1.20.51",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Village 25 blocks; ruined portal 57 blocks; shipwreck 261 blocks; stronghold approx. 1.2k blocks. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.20/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-20-60-1-20-81-497702473019062",
+      "seed": "497702473019062",
+      "version": "1.20.60-1.20.81",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Desert temple",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Desert temple",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Village 41 blocks; ruined portal 76 blocks; shipwreck 306 blocks; desert temple 397 blocks; stronghold approx. 814 blocks. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.20.60/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-20-60-1-20-81-855072353026447",
+      "seed": "855072353026447",
+      "version": "1.20.60-1.20.81",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Village 11 blocks; ruined portal 122 blocks; stronghold approx. 981 blocks. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.20.60/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-20-60-1-20-81-21788584167975",
+      "seed": "21788584167975",
+      "version": "1.20.60-1.20.81",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Bastion",
+        "Fortress"
+      ],
+      "verifiedFeatures": [
+        "Bastion",
+        "Fortress"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Nether 0,0: Bastion 11 blocks; Fortress 91 blocks. Estimated Overworld spawn 208,240. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.20.60/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-21-50-278780943085186",
+      "seed": "278780943085186",
+      "version": "1.21.50",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Village 61 blocks; ruined portal 331 blocks; stronghold approx. 801 blocks. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.21.50/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-21-50-140213855949526",
+      "seed": "140213855949526",
+      "version": "1.21.50",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Village 57 blocks; ruined portal 104 blocks; stronghold approx. 954 blocks. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.21.50/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-21-50-94642444184172",
+      "seed": "94642444184172",
+      "version": "1.21.50",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Bastion",
+        "Fortress"
+      ],
+      "verifiedFeatures": [
+        "Bastion",
+        "Fortress"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Nether 0,0: Bastion 118 blocks; Fortress 41 blocks. Estimated Overworld spawn 32,-64. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.21.50/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-21-60-1-21-8x-847743344719097",
+      "seed": "847743344719097",
+      "version": "1.21.60-1.21.8x",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Village 25 blocks; trial chamber 25 blocks; shipwreck 188 blocks; ruined portal 277 blocks; stronghold approx. 820 blocks. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.21.60/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-21-60-1-21-8x-1432579923393903",
+      "seed": "1432579923393903",
+      "version": "1.21.60-1.21.8x",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Village 61 blocks; ruined portal 114 blocks; stronghold approx. 764 blocks. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.21.60/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-21-60-1-21-8x-88452788405137",
+      "seed": "88452788405137",
+      "version": "1.21.60-1.21.8x",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Bastion",
+        "Fortress"
+      ],
+      "verifiedFeatures": [
+        "Bastion",
+        "Fortress"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Nether 0,0: Bastion 132 blocks; Fortress 25 blocks. Estimated Overworld spawn 16,0. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.21.60/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-21-90-26-23-404176540858465",
+      "seed": "404176540858465",
+      "version": "1.21.90-26.23",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Shipwreck",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Village 34 blocks; shipwreck 204 blocks; ruined portal 216 blocks; stronghold approx. 751 blocks. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.21.90/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-21-90-26-23-2948790957364232",
+      "seed": "2948790957364232",
+      "version": "1.21.90-26.23",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Village 97 blocks; ruined portal 82 blocks; stronghold approx. 974 blocks. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.21.90/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-1-21-90-26-23-37783239030675",
+      "seed": "37783239030675",
+      "version": "1.21.90-26.23",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Bastion",
+        "Fortress"
+      ],
+      "verifiedFeatures": [
+        "Bastion",
+        "Fortress"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock-specific scan. Nether 0,0: Bastion 57 blocks; Fortress 114 blocks. Estimated Overworld spawn 0,0. Approximate spawn/stronghold labels are retained where the source marks them approximate; not manually tested in-game.",
+      "proof": "https://mcseeder.com/versions/bedrock-1.21.90/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; source-reported structures and coordinates, not manual in-game testing."
     }
   ],
   "seedCount": 26,
   "note": "Seed records retain the exact version and source scope. A source-confirmed status means the cited scanner reports those listed structures; it is not a manual in-game loot check.",
-  "sourceCount": 103,
+  "sourceCount": 124,
   "candidateCount": 4
 }
