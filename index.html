@@ -18,7 +18,7 @@
 <section id="finder" class="panel">
 <div class="panelhead"><div><h3>Find a seed</h3><div class="sub">Search the available library. Filters only return seeds that have actually been added.</div></div><span class="tag">FSG tools</span></div>
 <div class="grid">
-<div class="field"><label for="version">BEDROCK VERSION</label><select id="version"><option value="any">Any version</option><option value="1.16">1.16</option><option value="1.18+">1.18+</option><option value="26.3">26.3</option><option value="26.50-26.60">26.50–26.60</option><option value="26.30-26.45">26.30–26.45</option><option value="1.21.90-26.23">1.21.90–26.23</option><option value="1.21.60-1.21.8x">1.21.60–1.21.8x</option><option value="1.21.50">1.21.50</option><option value="1.21.0-1.21.4x">1.21.0–1.21.4x</option><option value="1.20.60-1.20.81">1.20.60–1.20.81</option><option value="1.20.0-1.20.51">1.20.0–1.20.51</option><option value="1.19.x">1.19.x</option><option value="1.18.0-1.18.3x">1.18.0–1.18.3x</option></select></div>
+<div class="field"><label for="version">BEDROCK VERSION</label><select id="version"><option value="any">Any version</option><option value="1.16">1.16</option><option value="1.18+">1.18+</option><option value="26.3">26.3</option><option value="26.50-26.60">26.50–26.60</option><option value="26.63">26.63</option><option value="26.30-26.45">26.30–26.45</option><option value="1.21.90-26.23">1.21.90–26.23</option><option value="1.21.60-1.21.8x">1.21.60–1.21.8x</option><option value="1.21.50">1.21.50</option><option value="1.21.0-1.21.4x">1.21.0–1.21.4x</option><option value="1.20.60-1.20.81">1.20.60–1.20.81</option><option value="1.20.0-1.20.51">1.20.0–1.20.51</option><option value="1.19.x">1.19.x</option><option value="1.18.0-1.18.3x">1.18.0–1.18.3x</option></select></div>
 <div class="field"><label for="category">RUN TYPE</label><select id="category"><option value="any">Any type</option><option>FSG</option><option>Filtered FSG</option><option>Challenge</option><option>Casual</option></select></div>
 <div class="field"><label for="difficulty">DIFFICULTY</label><select id="difficulty"><option value="any">Any difficulty</option><option>Easy</option><option>Medium</option><option>Hard</option><option>Insane</option><option>Not rated</option></select></div>
 <div class="field"><label for="source">VERIFICATION</label><select id="source"><option value="any">Any status</option><option>Verified</option><option>Source-confirmed</option><option>Unverified</option><option>Community</option><option>Official</option></select></div>
@@ -78,19 +78,20 @@ function updateStats(){$('seedCount').textContent=seeds.length;$('favCount').tex
 function switchTab(tab){document.querySelectorAll('.tab').forEach(b=>b.classList.toggle('active',b.dataset.tab===tab));['finder','favorites','submit','manage','help'].forEach(id=>$(id).classList.toggle('hidden',id!==tab));if(tab==='favorites')render(favorites.map(id=>seeds.find(s=>s.id===id)).filter(Boolean),'Your favorites');if(tab==='finder')render(matches,'Seed library');if(tab==='help'){$('resultsTitle').textContent='Help guide';$('resultsSubtitle').textContent='Button explanations and seed-source notes';$('resultCount').textContent='Help';$('results').innerHTML=''}}
 document.querySelectorAll('.tab').forEach(b=>b.addEventListener('click',()=>switchTab(b.dataset.tab)));$('submitTop').onclick=()=>switchTab('submit');
 function selectedFeatures(){return [...document.querySelectorAll('.feature:checked')].map(x=>x.value)}
+function listedFeatures(x){return x.confirmedFeatures?.length?x.confirmedFeatures:(x.verifiedFeatures?.length?x.verifiedFeatures:(x.features||[]))}
 function updateFilterHint(){
  const v=$('version').value, f=selectedFeatures();
  const versionOK=x=>v==='any'||(v==='1.18+'?x.version!=='1.16':x.version===v);
  const pool=seeds.filter(versionOK);
- const countFor=t=>pool.filter(x=>(x.confirmedFeatures||x.verifiedFeatures||[]).includes(t)).length;
- const combo=pool.filter(x=>f.every(t=>(x.confirmedFeatures||x.verifiedFeatures||[]).includes(t))).length;
+ const countFor=t=>pool.filter(x=>listedFeatures(x).includes(t)).length;
+ const combo=pool.filter(x=>f.every(t=>listedFeatures(x).includes(t))).length;
  const hint=$('filterHint');
- if(!f.length){hint.textContent='No feature filters selected. Choose one or more features; checked features are combined as AND requirements.';return}
+ if(!f.length){hint.textContent='No feature filters selected. Choose one or more features; checked features are combined as AND requirements. Source-listed candidates can be unverified.';return}
  const missing=f.filter(t=>countFor(t)===0);
  const counts=f.map(t=>t+': '+countFor(t)).join(' · ');
- hint.textContent=combo+' seed(s) match all '+f.length+' selected feature(s) for '+(v==='any'?'all loaded versions':v)+'. '+counts+(missing.length?' — No loaded entries currently confirm: '+missing.join(', ')+'.':'')+(combo===0?' Try removing a requirement or adding a seed that confirms the full combination.':'');
+ hint.textContent=combo+' seed(s) match all '+f.length+' selected feature(s) for '+(v==='any'?'all loaded versions':v)+'. Counts include source-listed unverified candidates. '+counts+(missing.length?' — No loaded entries currently confirm: '+missing.join(', ')+'.':'')+(combo===0?' Try removing a requirement or adding a seed that confirms the full combination.':'');
 }
-function getMatches(){const v=$('version').value,c=$('category').value,d=$('difficulty').value,s=$('source').value,q=$('searchText').value.trim().toLowerCase(),f=selectedFeatures();return seeds.filter(x=>(v==='any'||(v==='1.18+'?x.version!=='1.16':x.version===v))&&(c==='any'||x.category===c)&&(d==='any'||x.difficulty===d)&&(s==='any'||(s==='Community'||s==='Official'?x.source===s:x.status===s))&&f.every(t=>(x.confirmedFeatures||x.verifiedFeatures||[]).includes(t))&&(!q||String(x.seed).includes(q)||(x.notes||'').toLowerCase().includes(q))).slice(0,Number($('batch').value))}
+function getMatches(){const v=$('version').value,c=$('category').value,d=$('difficulty').value,s=$('source').value,q=$('searchText').value.trim().toLowerCase(),f=selectedFeatures();return seeds.filter(x=>(v==='any'||(v==='1.18+'?x.version!=='1.16':x.version===v))&&(c==='any'||x.category===c)&&(d==='any'||x.difficulty===d)&&(s==='any'||(s==='Community'||s==='Official'?x.source===s:x.status===s))&&f.every(t=>listedFeatures(x).includes(t))&&(!q||String(x.seed).includes(q)||(x.notes||'').toLowerCase().includes(q))).slice(0,Number($('batch').value))}
 
 async function loadLargeSeedPools(){
  const pools=[
