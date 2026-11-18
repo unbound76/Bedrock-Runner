@@ -3105,6 +3105,44 @@
       "notes": "Community-listed Bedrock 26.63 candidate. Taiga village with a ruined portal between the houses and a trial chamber reported nearby. Features are copied from the page description, not independently tested in-game.",
       "proof": "https://getmcpe.com/speedrun-seeds/",
       "verificationMethod": "Public Bedrock seed article; not independently tested in-game."
+    },
+    {
+      "id": "bedrock-116-allbiomes-neg1817947619",
+      "seed": "-1817947619",
+      "version": "1.16",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Desert temple",
+        "Warped forest",
+        "Fortress",
+        "Bastion"
+      ],
+      "verifiedFeatures": [],
+      "source": "Community",
+      "status": "Unverified",
+      "notes": "Public Bedrock all-biomes seed post identifies Desert Temple at 137,150; Bastion Remnant at 391,-3; Fortress at 379,-23; and Warped Forest at -542,-398. Listed for Bedrock 1.16.201. Community-listed; not independently retested in this app.",
+      "proof": "https://www.youtube.com/watch?v=Pf8tUCzdxrM",
+      "verificationMethod": "Public Bedrock all-biomes seed post with listed Overworld temple, Nether structures, and Nether biome; not independently retested in this app."
+    },
+    {
+      "id": "bedrock-116-allbiomes-915380463",
+      "seed": "915380463",
+      "version": "1.16",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Desert temple",
+        "Warped forest",
+        "Fortress",
+        "Bastion"
+      ],
+      "verifiedFeatures": [],
+      "source": "Community",
+      "status": "Unverified",
+      "notes": "Public Bedrock all-biomes seed post identifies Desert Temple at 4840,537; Bastion Remnant at 781,11; Fortress at 129,-96; and Warped Forest at 147,-227. Listed for Bedrock 1.16.1. Community-listed; not independently retested in this app.",
+      "proof": "https://www.youtube.com/watch?v=OgNkBhb4bP0",
+      "verificationMethod": "Public Bedrock all-biomes seed post with listed Overworld temple, Nether structures, and Nether biome; not independently retested in this app."
     }
   ],
   "seedCount": 26,
