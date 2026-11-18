@@ -86,6 +86,7 @@ async function loadLargeSeedPools(){
   {path:'data/bedrock-1.16-stronghold.json',name:'1.16 Stronghold FSG',category:'FSG',features:['Stronghold']}
  ];
  let added=0;
+ const knownIds=new Set(seeds.map(x=>x.id));
  for(const pool of pools){
   try{
    const response=await fetch(pool.path);
@@ -93,7 +94,8 @@ async function loadLargeSeedPools(){
    const numbers=await response.json();
    numbers.forEach(seed=>{
     const id='pool-'+pool.path.split('/').pop().replace('.json','')+'-'+seed;
-    if(!seeds.some(x=>x.id===id)){
+    if(!knownIds.has(id)){
+     knownIds.add(id);
      seeds.push({id,seed:String(seed),version:'1.16',category:pool.category,difficulty:'Medium',features:pool.features,source:'Community',status:'Unverified',notes:'Imported from the public Bedrock 1.16 FSG seed list: '+pool.name+'. The list classification is preserved; this app has not individually re-tested this seed in-game.',proof:'https://github.com/maehy/Bedrock-1.16-fsg'});
      added++;
     }
