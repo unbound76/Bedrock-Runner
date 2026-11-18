@@ -1208,10 +1208,1122 @@
       "notes": "Unverified community candidate. Community report says Bedrock: two villages, two lava pools, ruined portals and nearby bastions. Exact version is uncertain; candidate only.",
       "proof": "https://www.reddit.com/r/minecraftseeds/comments/1v7y5rz/seed_i_found_randomly/",
       "verificationMethod": "Community-posted candidate; reported details have not been independently checked."
+    },
+    {
+      "id": "bedrock-26-50-171076484417353",
+      "seed": "171076484417353",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Bastion",
+        "Fortress"
+      ],
+      "verifiedFeatures": [
+        "Bastion",
+        "Fortress"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Bastion + Fortress near Nether 0,0. Nether 0,0: Bastion 82 blocks away; Nether Fortress 25 blocks away. Bastion at -72,40; Fortress at 24,8. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-bastion-and-fortress/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-88077025552507",
+      "seed": "88077025552507",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Bastion",
+        "Fortress"
+      ],
+      "verifiedFeatures": [
+        "Bastion",
+        "Fortress"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Bastion + Fortress near Nether 0,0. Nether 0,0: Bastion 91 blocks away; Nether Fortress 41 blocks away. Bastion at -88,24; Fortress at 40,8. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-bastion-and-fortress/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-175127568407683",
+      "seed": "175127568407683",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Bastion",
+        "Fortress"
+      ],
+      "verifiedFeatures": [
+        "Bastion",
+        "Fortress"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Bastion + Fortress near Nether 0,0. Nether 0,0: Bastion 102 blocks away; Nether Fortress 47 blocks away. Bastion at 72,-72; Fortress at 40,24. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-bastion-and-fortress/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-117039863331897",
+      "seed": "117039863331897",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Bastion",
+        "Fortress"
+      ],
+      "verifiedFeatures": [
+        "Bastion",
+        "Fortress"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Bastion + Fortress near Nether 0,0. Nether 0,0: Bastion 126 blocks away; Nether Fortress 34 blocks away. Bastion at 72,-104; Fortress at 24,24. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-bastion-and-fortress/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-69581795809965",
+      "seed": "69581795809965",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Bastion",
+        "Fortress"
+      ],
+      "verifiedFeatures": [
+        "Bastion",
+        "Fortress"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Bastion + Fortress near Nether 0,0. Nether 0,0: Bastion 147 blocks away; Nether Fortress 11 blocks away. Bastion at 56,-136; Fortress at 8,8. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-bastion-and-fortress/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-191885578142793",
+      "seed": "191885578142793",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Bastion",
+        "Fortress"
+      ],
+      "verifiedFeatures": [
+        "Bastion",
+        "Fortress"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Bastion + Fortress near Nether 0,0. Nether 0,0: Bastion 124 blocks away; Nether Fortress 57 blocks away. Bastion at 88,-88; Fortress at 56,8. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-bastion-and-fortress/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-135640838541317",
+      "seed": "135640838541317",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Bastion",
+        "Fortress"
+      ],
+      "verifiedFeatures": [
+        "Bastion",
+        "Fortress"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Bastion + Fortress near Nether 0,0. Nether 0,0: Bastion 72 blocks away; Nether Fortress 97 blocks away. Bastion at 8,-72; Fortress at -88,40. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-bastion-and-fortress/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-90485489716607",
+      "seed": "90485489716607",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Bastion",
+        "Fortress"
+      ],
+      "verifiedFeatures": [
+        "Bastion",
+        "Fortress"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Bastion + Fortress near Nether 0,0. Nether 0,0: Bastion 57 blocks away; Nether Fortress 111 blocks away. Bastion at 56,8; Fortress at -104,40. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-bastion-and-fortress/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-135150420738692",
+      "seed": "135150420738692",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Bastion",
+        "Fortress"
+      ],
+      "verifiedFeatures": [
+        "Bastion",
+        "Fortress"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Bastion + Fortress near Nether 0,0. Nether 0,0: Bastion 104 blocks away; Nether Fortress 88 blocks away. Bastion at 88,56; Fortress at 8,-88. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-bastion-and-fortress/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-45482015231497",
+      "seed": "45482015231497",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Bastion",
+        "Fortress"
+      ],
+      "verifiedFeatures": [
+        "Bastion",
+        "Fortress"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Bastion + Fortress near Nether 0,0. Nether 0,0: Bastion 34 blocks away; Nether Fortress 154 blocks away. Bastion at 24,24; Fortress at -136,-72. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-bastion-and-fortress/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-1137312592097531",
+      "seed": "1137312592097531",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village close to spawn. Village 25 blocks; ruined portal 251 blocks; stronghold approx. 654 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-at-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-145967037466775",
+      "seed": "145967037466775",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village close to spawn. Village 47 blocks; ruined portal 290 blocks; stronghold approx. 946 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-at-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-587158004766189",
+      "seed": "587158004766189",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village close to spawn. Village 11 blocks; ruined portal 286 blocks; stronghold approx. 1.4k blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-at-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-370164483494212",
+      "seed": "370164483494212",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village close to spawn. Village 41 blocks; ruined portal 357 blocks; stronghold approx. 833 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-at-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-708916990888208",
+      "seed": "708916990888208",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village close to spawn. Village 34 blocks; ruined portal 204 blocks; stronghold approx. 969 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-at-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-324940539639018",
+      "seed": "324940539639018",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village close to spawn. Village 41 blocks; ruined portal 317 blocks; stronghold approx. 884 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-at-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-320403186700126",
+      "seed": "320403186700126",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village close to spawn. Village 69 blocks; shipwreck 278 blocks; ruined portal 296 blocks; stronghold approx. 925 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-at-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-523224314058620",
+      "seed": "523224314058620",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village close to spawn. Village 57 blocks; ruined portal 375 blocks; stronghold approx. 758 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-at-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-2268324973441129",
+      "seed": "2268324973441129",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village close to spawn. Village 34 blocks; ruined portal 251 blocks; shipwreck 269 blocks; stronghold approx. 1.9k blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-at-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-321853121127570",
+      "seed": "321853121127570",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village close to spawn. Village 82 blocks; ruined portal 213 blocks; shipwreck 379 blocks; stronghold approx. 767 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-at-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-5165890727907534",
+      "seed": "5165890727907534",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Desert temple",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Desert temple",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Desert temple + ruined portal start. Desert temple and ruined portal both 25 blocks; shipwreck 217 blocks; stronghold approx. 907 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-desert-temple-and-ruined-portal/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-18657025992596728",
+      "seed": "18657025992596728",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Desert temple",
+        "Ruined portal",
+        "Village",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Desert temple",
+        "Ruined portal",
+        "Village",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Desert temple + ruined portal start. Desert temple 57 blocks; ruined portal 61 blocks; village 269 blocks; shipwreck 371 blocks; stronghold approx. 783 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-desert-temple-and-ruined-portal/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-12367940323881883",
+      "seed": "12367940323881883",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Desert temple",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Desert temple",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Desert temple + ruined portal start. Desert temple 11 blocks; ruined portal 47 blocks; stronghold approx. 1.1k blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-desert-temple-and-ruined-portal/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-4135042680060972",
+      "seed": "4135042680060972",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Desert temple",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Desert temple",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Desert temple + ruined portal start. Desert temple 34 blocks; ruined portal 57 blocks; shipwreck 283 blocks; stronghold approx. 1.4k blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-desert-temple-and-ruined-portal/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-31219311773972955",
+      "seed": "31219311773972955",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Desert temple",
+        "Ruined portal",
+        "Village",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Desert temple",
+        "Ruined portal",
+        "Village",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Desert temple + ruined portal start. Desert temple 91 blocks; ruined portal 124 blocks; village 309 blocks; shipwreck 379 blocks; stronghold approx. 1k blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-desert-temple-and-ruined-portal/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-7532748520393101",
+      "seed": "7532748520393101",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Desert temple",
+        "Ruined portal",
+        "Village",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Desert temple",
+        "Ruined portal",
+        "Village",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Desert temple + ruined portal start. Desert temple 79 blocks; ruined portal 114 blocks; village 385 blocks; stronghold approx. 1.1k blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-desert-temple-and-ruined-portal/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-10762266789221621",
+      "seed": "10762266789221621",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Desert temple",
+        "Ruined portal",
+        "Village",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Desert temple",
+        "Ruined portal",
+        "Village",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Desert temple + ruined portal start. Desert temple 111 blocks; ruined portal 72 blocks; village 213 blocks; stronghold approx. 781 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-desert-temple-and-ruined-portal/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-14494746418138475",
+      "seed": "14494746418138475",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Desert temple",
+        "Ruined portal",
+        "Shipwreck",
+        "Village",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Desert temple",
+        "Ruined portal",
+        "Shipwreck",
+        "Village",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Desert temple + ruined portal start. Desert temple 206 blocks; ruined portal 41 blocks; shipwreck 159 blocks; village 357 blocks; stronghold approx. 772 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-desert-temple-and-ruined-portal/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-11644084636302872",
+      "seed": "11644084636302872",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Desert temple",
+        "Ruined portal",
+        "Village",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Desert temple",
+        "Ruined portal",
+        "Village",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Desert temple + ruined portal start. Desert temple 120 blocks; ruined portal 73 blocks; village 226 blocks; stronghold approx. 1.1k blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-desert-temple-and-ruined-portal/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-9605821809027661",
+      "seed": "9605821809027661",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Desert temple",
+        "Ruined portal",
+        "Village",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Desert temple",
+        "Ruined portal",
+        "Village",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Desert temple + ruined portal start. Desert temple 11 blocks; ruined portal 25 blocks; village 313 blocks; stronghold approx. 981 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-desert-temple-and-ruined-portal/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-70809716471165",
+      "seed": "70809716471165",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Abandoned camp near spawn. Camp 11 blocks; village 272 blocks; ruined portal 333 blocks; shipwreck 347 blocks; stronghold approx. 804 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-abandoned-camp-near-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-298920846473621",
+      "seed": "298920846473621",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Abandoned camp near spawn. Camp 25 blocks; ruined portal 88 blocks; village 344 blocks; stronghold approx. 945 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-abandoned-camp-near-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-239460902976256",
+      "seed": "239460902976256",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Abandoned camp near spawn. Camp 25 blocks; ruined portal 312 blocks; stronghold approx. 736 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-abandoned-camp-near-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-825134355963718",
+      "seed": "825134355963718",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Abandoned camp near spawn. Camp 11 blocks; ruined portal 299 blocks; village 376 blocks; stronghold approx. 783 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-abandoned-camp-near-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-200818530366781",
+      "seed": "200818530366781",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Abandoned camp near spawn. Camp 34 blocks; village 249 blocks; ruined portal 355 blocks; stronghold approx. 835 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-abandoned-camp-near-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-611300106267071",
+      "seed": "611300106267071",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Abandoned camp near spawn. Camp 25 blocks; village 261 blocks; ruined portal 329 blocks; stronghold approx. 821 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-abandoned-camp-near-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-1914702869601601",
+      "seed": "1914702869601601",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Abandoned camp near spawn. Camp 25 blocks; village 118 blocks; ruined portal 355 blocks; stronghold approx. 1.3k blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-abandoned-camp-near-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-82869726639252",
+      "seed": "82869726639252",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Abandoned camp near spawn. Camp 25 blocks; ruined portal 263 blocks; shipwreck 344 blocks; stronghold approx. 1.3k blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-abandoned-camp-near-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-852654146588214",
+      "seed": "852654146588214",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Abandoned camp near spawn. Camp 25 blocks; ruined portal 149 blocks; shipwreck 229 blocks; stronghold approx. 1k blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-abandoned-camp-near-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-745878633206580",
+      "seed": "745878633206580",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Abandoned camp near spawn. Camp 11 blocks; stronghold approx. 787 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-abandoned-camp-near-spawn/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-1200234783139842",
+      "seed": "1200234783139842",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village + pillager outpost start. Village 126 blocks; outpost 171 blocks; ruined portal 340 blocks; shipwreck 349 blocks; stronghold approx. 863 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-pillager-outpost/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-4149404525600564",
+      "seed": "4149404525600564",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village + pillager outpost start. Village 190 blocks; outpost 184 blocks; ruined portal 374 blocks; shipwreck 376 blocks; stronghold approx. 642 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-pillager-outpost/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-511850415626742",
+      "seed": "511850415626742",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village + pillager outpost start. Village 136 blocks; outpost 107 blocks; ruined portal 322 blocks; shipwreck 227 blocks; stronghold approx. 1.8k blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-pillager-outpost/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-2584669758781327",
+      "seed": "2584669758781327",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village + pillager outpost start. Village 111 blocks; outpost 198 blocks; stronghold approx. 1.3k blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-pillager-outpost/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-1890242822032182",
+      "seed": "1890242822032182",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village + pillager outpost start. Village 136 blocks; outpost 201 blocks; shipwreck 305 blocks; stronghold approx. 774 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-pillager-outpost/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-973518391604318",
+      "seed": "973518391604318",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Shipwreck",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village + pillager outpost start. Village 140 blocks; outpost 25 blocks; ruined portal 149 blocks; shipwreck 249 blocks; stronghold approx. 1.4k blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-pillager-outpost/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-2839179415808255",
+      "seed": "2839179415808255",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village + pillager outpost start. Village 176 blocks; outpost 168 blocks; ruined portal 264 blocks; stronghold approx. 792 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-pillager-outpost/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-204514232944984",
+      "seed": "204514232944984",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village + pillager outpost start. Village 251 blocks; outpost 229 blocks; ruined portal 362 blocks; stronghold approx. 797 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-pillager-outpost/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-1570268533025805",
+      "seed": "1570268533025805",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village + pillager outpost start. Village 114 blocks; outpost 280 blocks; ruined portal 370 blocks; stronghold approx. 1k blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-pillager-outpost/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
+    },
+    {
+      "id": "bedrock-26-50-575849853297263",
+      "seed": "575849853297263",
+      "version": "26.50-26.60",
+      "category": "Filtered FSG",
+      "difficulty": "Not rated",
+      "features": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "verifiedFeatures": [
+        "Village",
+        "Ruined portal",
+        "Stronghold"
+      ],
+      "source": "Community",
+      "status": "Source-confirmed",
+      "notes": "MCSeeder Bedrock 26.50–26.60 scan. Village + pillager outpost start. Village 232 blocks; outpost 79 blocks; ruined portal 362 blocks; stronghold approx. 790 blocks. Spawn and some stronghold positions are approximate as noted by source; not manually tested in-game.",
+      "proof": "https://mcseeder.com/seeds/bedrock-village-and-pillager-outpost/",
+      "verificationMethod": "Bedrock-specific seed-map engine list; listed structures and coordinates reported by source, not manual in-game testing."
     }
   ],
   "seedCount": 26,
   "note": "Seed records retain the exact version and source scope. A source-confirmed status means the cited scanner reports those listed structures; it is not a manual in-game loot check.",
-  "sourceCount": 53,
+  "sourceCount": 103,
   "candidateCount": 4
 }
